@@ -1,0 +1,16 @@
+{
+  "notes":[
+    {
+      "id":"1",
+      "author":"abcd",
+      "content":"testing testing",
+      "date":"18/11/22"
+    },
+    {
+      "id":"2",
+      "author":"abcd2",
+      "content":"testing2 testing2 testing2",
+      "date":"17/11/22"
+    }
+  ]
+}
